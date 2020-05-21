@@ -2,9 +2,9 @@ package dashboard
 
 import (
 	"fmt"
-	"gobadge/svg"
-	geo "gobadge/svg/geometry"
-	"gobadge/svg/style"
+	"github.com/pnctech/gobadge/svg"
+	geo "github.com/pnctech/gobadge/svg/geometry"
+	"github.com/pnctech/gobadge/svg/style"
 	"log"
 	"strings"
 )

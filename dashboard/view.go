@@ -1,7 +1,7 @@
 package dashboard
 
 import (
-	"gobadge/svg"
+	"github.com/pnctech/gobadge/svg"
 	"math"
 )
 
