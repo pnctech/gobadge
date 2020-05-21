@@ -11,20 +11,20 @@ Dashboards can be dynamically configured to fit your perfect look.
 ## Getting Started
 
 ```bash
-go get github.com/medenzon/gobadge
+go get github.com/pnctech/gobadge
 ```
 
 ```go
 package main
 
 import (
-    "github.com/medenzon/gobadge"
+    "github.com/pnctech/gobadge"
 )
 ```
 
 ## Example
 
-Build and run the sample server in `github.com/medenzon/gobadge/examples`.
+Build and run the sample server in `github.com/pnctech/gobadge/examples`.
 
 
 ### HTTP Endpoint
